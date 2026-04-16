@@ -1,85 +1,92 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aniketvishwakarma-tech/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/mr.anni_02/?next=%2F&hl=en" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
-  </a>
-  <a href="mailto:sharmaaniket396@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Email logo" />
-  </a>
-</div>
-
-
-###
-
+<h1 align="center">Manjeet Sharma</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aniketvishwakarma01&style=flat-square&color=blue" alt="Profile views" />
+Frontend Developer | React.js | Next.js | JavaScript | Tailwind CSS
 </p>
 
+---
 
-###
+## About
+Frontend Developer with 1+ year of experience building scalable web applications using React.js, Next.js, and Tailwind CSS. Strong focus on performance optimization, REST API integration, and responsive UI development. Experienced in delivering production-ready applications in Agile environments.
 
-<h1 align="center">hey there 👋</h1>
+---
 
+## Skills
 
+Frontend Development  
+React.js, Next.js, JavaScript (ES6+), TypeScript, HTML5, CSS3, Tailwind CSS  
 
-<h3 align="left">👩‍💻  About Me</h3>
+State Management & APIs  
+Redux, Context API, REST APIs, Axios  
 
-###
+Performance & Optimization  
+Code Splitting, Lazy Loading, SEO Optimization  
 
-<p align="left">I'm Manjeet Sharma.<br><br>- 🔭 Building End-to-End Web Applications with Java & Modern JS.<br>- 📚 I'm currently learning advanced Java concepts and integrating them into real-world projects.<br>- ⚡ In my free time i enjoy solving coding puzzles, playing chess, and exploring new tech stacks.</p>
+Tools & Technologies  
+Git, GitHub, Bitbucket, Postman, VS Code  
 
-###
+Core Concepts  
+Responsive Design, Component Architecture, Cross-Browser Compatibility  
 
-<h3 align="left">🛠 Language and tools</h3>
+---
 
-###
+## Experience
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-plain.svg" height="40" alt="hibernate logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo" />
-</div>
+Frontend Developer  
+AEC Business Consultant and IT Solutions, New Delhi  
+Jan 2025 – Present  
 
+- Developed 4+ scalable web applications using React.js, Next.js, and Tailwind CSS  
+- Improved development efficiency by 20% through reusable component architecture  
+- Integrated 10+ REST APIs enabling real-time data flow and automation  
+- Optimized performance by 15–25% using code splitting and lazy loading  
+- Built responsive UI from Figma with cross-browser compatibility  
+- Resolved 15+ production issues improving application stability  
+- Collaborated in Agile teams to accelerate delivery timelines  
 
-###
+Software Developer Intern  
+Web Cure Info Solutions India Pvt. Ltd.  
+Sep 2023 – Dec 2023  
 
-<h3 align="left">🔥   My Stats :</h3>
+- Built REST APIs using Java and Spring Boot  
+- Developed UI using React.js, JSP, and Servlets  
+- Implemented validation and exception handling  
 
-###
+---
 
+## Projects
+
+AI Chatbot (ShuraaGPT)  
+- Built using Next.js and Tailwind CSS  
+- Integrated APIs for real-time responses  
+- Improved performance and user engagement  
+
+Admin Panel (Amara Clinic)  
+- Developed dashboard with multiple modules  
+- Implemented CRUD operations  
+- Reduced manual processes by 30%  
+
+Dubiz Website Revamp  
+- Migrated from Laravel to Next.js  
+- Improved performance by 25–30%  
+- Developed 28+ service pages  
+
+Dart Website Expansion  
+- Expanded from landing page to 30+ pages  
+- Ensured responsive and consistent UI  
+
+---
+
+## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aniketvishwakarma01&layout=donut&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ManjeetSharma03&show_icons=true&hide_border=true" />
 </p>
 
+---
 
+## Contact
+Email: meet75152@gmail.com  
+LinkedIn: https://linkedin.com/in/manjeet-sharma-dev  
 
+---
 
-
-
-
-
-###
+Open to Frontend Developer opportunities and collaboration.
